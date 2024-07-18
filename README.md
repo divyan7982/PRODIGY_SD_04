@@ -22,13 +22,13 @@ This is a Sudoku Solver program developed in C++ as part of my internship at Pro
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/sudoku-solver.git
+    git clone https://github.com/divyan7982/PRODIGY_SD_04.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd sudoku-solver
+    cd PRODIGY_SD_04
     ```
 
 ### Running the Program
